@@ -1,7 +1,9 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on my Github profile
+ 🔭 I’m currently working on my Github profile 
+ 
  🌱 I’m currently learning Network Engineering
+ 
  👯 I’m looking to collaborate on Projects
  
 

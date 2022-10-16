@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**Paul-Allen/Paul-Allen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
  🔭 I’m currently working on my Github profile 
  
  🌱 I’m currently learning Network Engineering

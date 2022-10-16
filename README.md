@@ -6,9 +6,13 @@
  
  🌱 I’m currently learning Network Engineering
  
+ 🤔 I’m looking for help with my studies
+ 
  👯 I’m looking to collaborate on Projects
  
  📫 How to reach me: paul.j.allen.88@gmail.com
+ 
+ 💬 Ask me about myself
  
 
 <!--

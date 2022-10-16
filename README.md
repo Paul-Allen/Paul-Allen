@@ -6,6 +6,8 @@
  
  👯 I’m looking to collaborate on Projects
  
+ 📫 How to reach me: paul.j.allen.88@gmail.com
+ 
 
 <!--
 **Paul-Allen/Paul-Allen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
